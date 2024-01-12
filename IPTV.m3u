@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z4rLIVW.png" group-title="Nature",BBC Earth
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="BBCFood.us" tvg-name="BBC Food" group-title="Cooking",BBC Food
-https:\\i.mjh.nz\Plex\5e20b730f2f8d5003d739db7-630905af0417b7074a4ad95e.m3u8
 #EXTINF:-1 tvg-id="AdultSwimWest.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Comedy",Adult Swim
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimWest.us.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-name="BBC America East" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="News",BBC
