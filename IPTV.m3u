@@ -33,5 +33,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://dump.li/image/get/4e468ba4e7c6ab4e.png" group-title="News",KPRC 2
 https://dai.google.com/linear/hls/pa/event/jHV2RfV4QQuU2swXQUVHsA/stream/12dbd614-c6a3-41ff-9df7-6e39bba55150:BRU/variant/6f10d2e3128fb8a6fdf2db916a0990f7/bandwidth/5359200.m3u8
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title=" 	
+Weather ",AccuWeather NOW
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 group-title="News",Dateline 24/7
 https://csm-e-cetubiausw2live204-0887d994defa5e487.csm.tubi.video/csm/live/575054637.m3u8?playback_start_ts=1704347587&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=711410&content_type=mp4&device_id=4b97be00-db92-4e92-a290-c7be46304522&language=en&now_pos=0&platform=WEB&pub_id=ae14f17e2bbb688347283deaecc33c95&vpaid_enabled=true&yo.eb.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS9kYXRlbGluZS9oMjY0L3BsYXlsaXN0Lm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmpiM1Z1ZEhKNUlqb2lWVk1pTENKa1pYWnBZMlZmYVdRaU9pSTBZamszWW1Vd01DMWtZamt5TFRSbE9USXRZVEk1TUMxak4ySmxORFl6TURRMU1qSWlMQ0psZUhBaU9qRTNNRFEyTURZMk56WXNJbWx6Y3lJNklteHBkbVZmYm1WM2MxOXRZVzVwWm1WemRDSXNJbkJzWVhSbWIzSnRJam9pVjBWQ0lpd2ljbk56SWpvaVpIVTZWa2xFUlU5ZlVrVlRUMHhWVkVsUFRsOHhNRGd3VUNJc0luVnpaWEpmYVdRaU9qQjkuZ25LRk5CTTZqYXYwRmVvSU9pemtTWVhfTEpJQkhtMTlDb3JycXRFd2pTb1hZSDl6b2VHWjAxUlJiYTVrdGJFS3Q4SzZoLUNJR1MxaGtzWHJ4QXJyMnc=&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
