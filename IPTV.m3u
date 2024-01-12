@@ -9,7 +9,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_14
 #EXTINF:-1 tvg-id="PlutoTVAnimals.uk" tvg-logo="https://i.imgur.com/KuPue6S.png" group-title="Nature",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://www.khou.com/assets/favicons/KHOU.png?ver=2.7.8.5" group-title="News",KHOU 11
+#EXTINF:-1 tvg-logo="https://dump.li/image/get/597f66abcbe58a43.jpeg" group-title="News",KHOU 11
 https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="Crime",Court.tv
@@ -22,7 +22,7 @@ https://lnc-abc-news.tubi.video/index.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CBS_logo_%282020%29.svg" group-title="News",CBS News Texas
-https://dai.google.com/linear/hls/pa/event/ogzLhRCkRbG3lFHHJwqaNw/stream/3aa8b2fc-a7f5-4fd7-8039-3b0b4a8b819a:TUL/master.m3u8
+https://dai.google.com/linear/hls/pa/event/ogzLhRCkRbG3lFHHJwqaNw/stream/7dc08e49-5e5e-4fea-81ab-4a0bdbb3c2ee:MRN2/variant/cded589e2f0d7539297e788efdf1f272/bandwidth/2545136.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="News",Vice News
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -31,5 +31,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="TheYoungTurks.us" tvg-name="The Young Turks" tvg-logo="https://i.imgur.com/XDNXJCl.png" group-title="News",The Young Turks
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://dump.li/image/get/4e468ba4e7c6ab4e.png" group-title="News",KPRC 2
+https://dai.google.com/linear/hls/pa/event/jHV2RfV4QQuU2swXQUVHsA/stream/12dbd614-c6a3-41ff-9df7-6e39bba55150:BRU/variant/6f10d2e3128fb8a6fdf2db916a0990f7/bandwidth/5359200.m3u8
 #EXTINF:-1 group-title="News",Dateline 24/7
 https://csm-e-cetubiausw2live204-0887d994defa5e487.csm.tubi.video/csm/live/575054637.m3u8?playback_start_ts=1704347587&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=711410&content_type=mp4&device_id=4b97be00-db92-4e92-a290-c7be46304522&language=en&now_pos=0&platform=WEB&pub_id=ae14f17e2bbb688347283deaecc33c95&vpaid_enabled=true&yo.eb.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS9kYXRlbGluZS9oMjY0L3BsYXlsaXN0Lm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmpiM1Z1ZEhKNUlqb2lWVk1pTENKa1pYWnBZMlZmYVdRaU9pSTBZamszWW1Vd01DMWtZamt5TFRSbE9USXRZVEk1TUMxak4ySmxORFl6TURRMU1qSWlMQ0psZUhBaU9qRTNNRFEyTURZMk56WXNJbWx6Y3lJNklteHBkbVZmYm1WM2MxOXRZVzVwWm1WemRDSXNJbkJzWVhSbWIzSnRJam9pVjBWQ0lpd2ljbk56SWpvaVpIVTZWa2xFUlU5ZlVrVlRUMHhWVkVsUFRsOHhNRGd3VUNJc0luVnpaWEpmYVdRaU9qQjkuZ25LRk5CTTZqYXYwRmVvSU9pemtTWVhfTEpJQkhtMTlDb3JycXRFd2pTb1hZSDl6b2VHWjAxUlJiYTVrdGJFS3Q4SzZoLUNJR1MxaGtzWHJ4QXJyMnc=&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
